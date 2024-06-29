@@ -1,0 +1,7 @@
+cat testfile
+git status
+git add testfile
+git status
+git commit -m 
+git push
+
